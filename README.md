@@ -1,6 +1,5 @@
 # Awesome-Algorithmic-Coding
-A Curated List of Algorithms, with implementations in C++.
-
+A Curated List of Algorithms, with implementations in C++
 ## Algorithms Implemented till now
 ### Elementary
 - Sieve of Eratosthenes
@@ -18,7 +17,6 @@ A Curated List of Algorithms, with implementations in C++.
 - Chinese Remainder Theorem
 - Euclid's Theorem
 - Heap Sort
-
 ### Intermediate
 - Radix Sort
 - Kadane Algorithm
